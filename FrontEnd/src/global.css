@@ -1,0 +1,45 @@
+:root {
+    --primary-color: #0fbe32;
+    --secund-color: #179c32;
+
+    --header-color: rgb(80, 80, 80);
+    --bory-color: #F9F9F9;
+    
+    --button-hover: green;
+    --form-label: gray;
+    --form-edit: white;
+    
+    --color-user: #eee;
+
+    --logOut-color: rgb(63, 63, 63);
+    --logOut-hover: rgb(88, 88, 88);
+
+    --button-edit: #17882d;
+    --button-edit-hover: #00ad17;
+    
+    --button-editKey: rgb(107, 107, 107);
+    --button-editkey-hover: #a8a8b3;
+    
+    --button-delit: #9c0000;
+    --button-delit-hover: red;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background: var(--bory-color);
+  font-family: sans-serif;
+
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

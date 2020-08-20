@@ -1,0 +1,1 @@
+char(66)char(111)%61&nbsp;%6e%6fchar(105)char(116)%65&sbquo;&nbsp;%70char(114)char(111)%66%65%73char(115)char(111)%72char(33)Este+e+o CaSt(  0X746578746f206f726967696e616c as CHAR )+que+foi decodificado alfa beta &lt;char(65)char(108)char(111)&gt; celta %5btexto%5d delta

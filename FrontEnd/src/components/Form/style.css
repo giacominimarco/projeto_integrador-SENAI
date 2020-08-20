@@ -1,0 +1,50 @@
+.form {
+  margin: 0 auto 70px;
+  background: var(--primary-color);
+  padding: 16px 64px;
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  grid-gap: 40px;
+  align-items: center;
+  border-radius: 6px;
+  transition: all 300ms;
+
+  width: 50%;
+}
+
+.form h2 {
+  text-align: center;
+  color: white;
+  font-size: 19px;
+}
+
+form input,
+form button {
+  width: 100%;
+  padding: 10px 16px;
+  margin-bottom: 4px;
+  border-radius: 5px;
+  border: 1px solid #ffffff88;
+  font-size: 15px;
+}
+
+form input {
+  color: white;
+  background: transparent;
+}
+
+form input::placeholder {
+  color: #ffffffaa;
+}
+
+form button {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.hide {
+  opacity: 0;
+  visibility: hidden;
+  height: 0;
+  margin-top: -70px;
+}
