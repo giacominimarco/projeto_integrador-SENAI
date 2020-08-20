@@ -16,3 +16,14 @@ Na pasta Backend
 
 # Para utilizar o sistema, é necessário utilizar
 Dar o comando yarn start no Backend e outro yarn start no Frontend
+
+# Colaboradores
+
+> Pedro Henrique B. da Silva
+  https://github.com/pedrohbsilva
+
+> kauan jesus
+  https://github.com/kadujesus
+
+> Charles Fernando Vieira Júnior
+  https://github.com/Charles1512
